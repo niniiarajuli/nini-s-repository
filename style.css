@@ -1,0 +1,26 @@
+.header {
+    text-align: center;
+    -webkit-text-fill-color: aliceblue;
+}
+.sidebar {
+    -webkit-text-fill-color: aliceblue;
+    width: 170px;
+    margin-right: 1000px;
+
+}
+.main {
+    -webkit-text-fill-color: aliceblue;
+    text-align:center
+
+}
+.footer {
+    -webkit-text-fill-color: aliceblue;
+
+   
+}
+.ul {
+    margin-right:1000px;
+}
+a{
+    color:aliceblue
+}
